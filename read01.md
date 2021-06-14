@@ -1,5 +1,6 @@
 # What is Markdown?
  [Markdown](https://en.wikipedia.org/wiki/Markdown) is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+
 ![markdown](https://www.howtogeek.com/wp-content/uploads/2019/11/markdown-logo.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1)
 ##### You can use Markdown most places around GitHub:
 * [Gists](https://gist.github.com/)
