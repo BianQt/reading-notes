@@ -11,8 +11,8 @@
 * Drive to Learn.
 ### As a reminders for me to always have a growth mindset, I have these:
 1. Without it we wouldn't have an easy life, we would stuck in caves.
-2. I have learned a lot of things during the year and i'm willing to keep going.
-3. Always be a child how you want to try and learn every things.
+2. I have learned a lot of things during the years and i'm willing to keep going.
+3. Always be as a child how want to try and learn every things.
 
 #### *you can check more about mindset in link below:*
 [Mindset](https://en.wikipedia.org/wiki/Mindset)
