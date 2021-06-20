@@ -10,7 +10,7 @@ HTML (Hypertext Markup Language) is a markup language that defines the structure
 
 If we wanted the line to stand by itself, we could specify that it is a paragraph by enclosing it in paragraph tags:
 
-> <p>My cat is very grumpy</p>
+> < p >My cat is very grumpy< /p >
 
 # Semantics
 In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
@@ -18,16 +18,16 @@ In programming, Semantics refers to the meaning of a piece of code — for examp
 ### Semantic elements
 These are some of the roughly 100 semantic elements available:
 
-* <article>
-* <aside>
-* <details>
-* <figcaption>
-* <figure>
-* <footer>
-* <header>
-* <main>
-* <mark>
-* <nav>
-* <section>
-* <summary>
-* <time>
+* < article >
+* < aside >
+* < details >
+* < figcaption >
+* < figure >
+* < footer >
+* < header >
+* < main > 
+* < mark >
+* < nav >
+* < section >
+* < summary >
+* < time >
