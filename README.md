@@ -11,6 +11,7 @@ Hey! My name is Bayan, am an electrical engineer with 5 years experience in Indu
 |Read: 03 - Structure web pages with HTML | [Read03](https://bianqt.github.io/reading-notes/102/read03)      |
 | Read: 04 - Dynamic web pages with JavaScript  | [Read04](https://bianqt.github.io/reading-notes/102/read04)      |
 | Lab: 03 & 04 - Structure web pages with HTML & Activate web pages with JavaScript  | [Traveling Agency](https://bianqt.github.io/TravelingAgency/)      |
+<<<<<<< HEAD
 |Read: 05 - Operators and Loops | [Read05](https://bianqt.github.io/reading-notes/102/read05)      |
 | Read: 06 - Design web pages with CSS | [Read06](https://bianqt.github.io/reading-notes/102/read06)      |
 | Read: 07 - Programming with JavaScript | [Read07](https://bianqt.github.io/reading-notes/102/read07)      |
@@ -38,3 +39,8 @@ Hey! My name is Bayan, am an electrical engineer with 5 years experience in Indu
 |Read: 16 -   | [Read16](https://bianqt.github.io/reading-notes/201/class16)      |
 | Read: 17 -   | [Read17](https://bianqt.github.io/reading-notes/201/class17)      |
 | Read: 18 -   | [Read18](https://bianqt.github.io/reading-notes/201/class18)      |
+=======
+|Read: 05 - Operators and Loops | [Read05](https://bianqt.github.io/reading-notes/read05)      |
+| Read: 06 - Design web pages with CSS | [Read06](https://bianqt.github.io/reading-notes/read06)      |
+| Read: 07 - Programming with JavaScript | [Read07](https://bianqt.github.io/reading-notes/read07)      |
+>>>>>>> 3c72bb5508acd906eaf8e7651e55be05b4331323
