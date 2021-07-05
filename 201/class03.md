@@ -139,7 +139,7 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 
 4. Asynchronous JavaScript
 
-  Source - [Class02 read](https://bianqt.github.io/reading-notes/201/class0)
+  Source - [Class02 read](https://bianqt.github.io/reading-notes/201/class02)
 
 # Decisions and Loops
 Looking at a flowchart (for all but the most basic scripts), the code can take more than one path, which means the browser runs different code in different situations. 
