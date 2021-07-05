@@ -14,8 +14,8 @@ definitions for each of those terms.
 <html>
 <head>
  <title>Lists</title>
-</head>
-<body>
+ </head>
+ <body>
  <h1>Scrambled Eggs</h1>
  <p>Eggs are one of my favourite foods. Here is a
  recipe for deliciously rich scrambled eggs.</p>
@@ -51,7 +51,9 @@ these boxes such as:
 * Showing and hiding boxes
 
 ## Example
-```<!DOCTYPE html>
+
+```
+<!DOCTYPE html>
 <html>
 <head>
  <title>Boxes</title>
@@ -125,7 +127,7 @@ these boxes such as:
 # Basics of JavaScript
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it.
 
-** Do not confuse JavaScript with the Java programming language.** Both "Java" and "JavaScript" are trademarks or registered trademarks of Oracle in the U.S. and other countries. However, the two programming languages have very different syntax, semantic, and use.
+**Do not confuse JavaScript with the Java programming language.** Both "Java" and "JavaScript" are trademarks or registered trademarks of Oracle in the U.S. and other countries. However, the two programming languages have very different syntax, semantic, and use.
 
 ### Modules
 
@@ -137,32 +139,17 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 
 4. Asynchronous JavaScript
 
-## Loops and iteration
-Loops offer a quick and easy way to do something repeatedly.You can think of a loop as a computerized version of the game where you tell someone to take X steps in one direction, then Y steps in another.
-
-### For Statement
-A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
-
-A for statement looks as follows:
-> for ([initialExpression]; [conditionExpression]; [incrementExpression])
-  statement
-
-### While Statement
-A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
->while (condition)
-  statement
-
   Source - [Class02 read](https://bianqt.github.io/reading-notes/201/class0)
 
-  # Decisions and Loops
-  Looking at a flowchart (for all but the most basic scripts), the code can take more than one path, which means the browser runs different code in different situations. 
-  To determine which path to take, programmers often rely upon the following three concepts: 
-  * **EVALUATIONS :** You can analyze values in your scripts to determine whether or note they match expected results. 
-  * **DECISIONS :** Using the results of evaluations, you can decide which path your script should go down. 
-  * **LOOPS :** There are also many occasions where you will want to perform the same set of steps repeatedly. 
+# Decisions and Loops
+Looking at a flowchart (for all but the most basic scripts), the code can take more than one path, which means the browser runs different code in different situations. 
+To determine which path to take, programmers often rely upon the following three concepts: 
+* **EVALUATIONS :** You can analyze values in your scripts to determine whether or note they match expected results. 
+* **DECISIONS :** Using the results of evaluations, you can decide which path your script should go down. 
+* **LOOPS :** There are also many occasions where you will want to perform the same set of steps repeatedly. 
 
-  ## Decision Making in JavaScript
-  ### If Statement
+## Decision Making in JavaScript
+### If Statement
 if is used to check for a condition whether its true or not. Condition could be any expression that returns true or false. When condition satisfies then statements following if statement are executed.
 ### Else Statement
 else statements are used with if statements. When if condition gets fail then else statement is executed.
