@@ -10,7 +10,8 @@ number.
 * **Definition lists** are made up of a set of terms along with the
 definitions for each of those terms.
 ## Example
-```<html>
+```
+<html>
 <head>
  <title>Lists</title>
 </head>
