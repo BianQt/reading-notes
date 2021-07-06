@@ -162,6 +162,7 @@ y = mycar.make; // y gets the value "Toyota"
 ```
 
 # 6 Reasons for Pair Programming
+![img](https://images.prismic.io/impactio-blog/06eab7d7-e9ef-4ae3-b93b-8bcc47372fb3_Pair++programming.png?auto=compress,format)
 Pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. Pair programming touches on all four skills that help anyone learn a new language: developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
 ## 1. Greater efficiency
 ## 2. Engaged collaboration
