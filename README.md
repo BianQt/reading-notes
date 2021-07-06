@@ -23,7 +23,7 @@ Hey! My name is Bayan, am an electrical engineer with 5 years experience in Indu
 | Read: 01 - Introductory HTML and JavaScript  | [Read01](https://bianqt.github.io/reading-notes/201/class01)      |
 | Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions  | [Read02](https://bianqt.github.io/reading-notes/201/class02)      |
 |Read: 03 - HTML Lists, CSS Boxes, JS Control Flow  | [Read03](https://bianqt.github.io/reading-notes/201/class03)      |
-| Read: 04 -    | [Read04](https://bianqt.github.io/reading-notes/201/class04)      |
+| Read: 04 - HTML Links, CSS Layout, JS Functions    | [Read04](https://bianqt.github.io/reading-notes/201/class04)      |
 |Read: 05 -   | [Read05](https://bianqt.github.io/reading-notes/201/class05)      |
 | Read: 06 -   | [Read06](https://bianqt.github.io/reading-notes/201/class06)      |
 | Read: 07 -   | [Read07](https://bianqt.github.io/reading-notes/201/class07)      |
