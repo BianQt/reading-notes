@@ -85,7 +85,7 @@ In other words, ```this.firstName``` means the firstName property of this object
 Read more about the this keyword at JS this Keyword.
 
 ### Example
-
+ 
 ```const person = {
   firstName: "John",
   lastName: "Doe",
