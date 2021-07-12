@@ -93,8 +93,7 @@ Read more about the this keyword at JS this Keyword.
   fullName: function() {
     return this.firstName + " " + this.lastName;
   }
-};
-```
+};```
 
 ## Accessing Object Methods
 You access an object method with the following syntax:
