@@ -28,7 +28,7 @@ Hey! My name is Bayan, am an electrical engineer with 5 years experience in Indu
 | Read: 06 - JS Object Literals; The DOM  | [Read06](https://bianqt.github.io/reading-notes/201/class06)      |
 | Read: 07 - HTML Tables; JS Constructor Functions  | [Read07](https://bianqt.github.io/reading-notes/201/class07)      |
 | Read: 08 - More CSS Layout | [Read08](https://bianqt.github.io/reading-notes/201/class08)      |
-| Read: 09 -   | [Read09](https://bianqt.github.io/reading-notes/201/class09)      |
+| Read: 09 - Forms and Events | [Read09](https://bianqt.github.io/reading-notes/201/class09)      |
 |Read: 10 -   | [Read10](https://bianqt.github.io/reading-notes/201/class10)      |
 | Read: 11 -    | [Read11](https://bianqt.github.io/reading-notes/201/class11)      |
 |Read: 12 -   | [Read12](https://bianqt.github.io/reading-notes/201/class12)      |
