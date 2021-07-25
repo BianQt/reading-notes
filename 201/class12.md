@@ -126,5 +126,5 @@ And finally, we add in the bar chart’s data:
 ```
 As you can see, the data is largely the same, except this time we’ve chosen to use RGBA to specify our colors which allows us to add transparency.
 
-Conclusion
+## Conclusion
 The great things about Chart.js are that it’s simple to use and really very flexible. Plus, once you’ve mastered the basics here, you’ll discover that there are tons of options listed in the documentation.
