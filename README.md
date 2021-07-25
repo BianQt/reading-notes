@@ -31,7 +31,7 @@ Hey! My name is Bayan, am an electrical engineer with 5 years experience in Indu
 | Read: 09 - Forms and Events | [Read09](https://bianqt.github.io/reading-notes/201/class09)      |
 |Read: 10 - JS Debugging  | [Read10](https://bianqt.github.io/reading-notes/201/class10)      |
 | Read: 11 - Assorted Topics   | [Read11](https://bianqt.github.io/reading-notes/201/class11)      |
-|Read: 12 -   | [Read12](https://bianqt.github.io/reading-notes/201/class12)      |
+|Read: 12 -  Docs for the HTML ```<canvas>``` Element & Chart.js | [Read12](https://bianqt.github.io/reading-notes/201/class12)      |
 | Read: 13 -   | [Read13](https://bianqt.github.io/reading-notes/201/class13)      |
 | Read: 14 -   | [Read14](https://bianqt.github.io/reading-notes/201/class14)      |
 | Read: 15 -    | [Read15](https://bianqt.github.io/reading-notes/201/class15)      |
