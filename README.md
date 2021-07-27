@@ -34,7 +34,7 @@ Hey! My name is Bayan, am an electrical engineer with 5 years experience in Indu
 |Read: 12 -  Docs for the HTML ```<canvas>``` Element & Chart.js | [Read12](https://bianqt.github.io/reading-notes/201/class12)      |
 | Read: 13 -  Local Storage | [Read13](https://bianqt.github.io/reading-notes/201/class13)      |
 | Read: 14a -  CSS Transforms, Transitions, and Animations | [Read14a](https://bianqt.github.io/reading-notes/201/class14a)      |
-| Read: 14b -  What Google Learned About Teams | [Read14b](https://bianqt.github.io/reading-notes/201/class14b)      |
+| Read: 14b -  What Google Learned About Teams | [Read14b](https://bianqt.github.io/reading-notes/201/class142)      |
 | Read: 15 -    | [Read15](https://bianqt.github.io/reading-notes/201/class15)      |
 |Read: 16 -   | [Read16](https://bianqt.github.io/reading-notes/201/class16)      |
 | Read: 17 -   | [Read17](https://bianqt.github.io/reading-notes/201/class17)      |
