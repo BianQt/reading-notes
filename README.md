@@ -1,4 +1,4 @@
-# Bayan Qutshan
+# Reading Notes
 Hey! My name is Bayan. Here are my reading assignments throughout the course.
 
 
