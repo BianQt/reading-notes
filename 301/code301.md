@@ -2,4 +2,5 @@
 
 |  Description  | Assignment    |
 | ----------- | ----------- |
-|   Read: 01 -Introduction to React and Components |  [Read01](https://bianqt.github.io/reading-notes/301/read01)    |
+|   Read: 01 - Introduction to React and Components |  [Read01](https://bianqt.github.io/reading-notes/301/read01)    |
+|   Read: 02 - State and Props |  [Read02](https://bianqt.github.io/reading-notes/301/read02)    |
