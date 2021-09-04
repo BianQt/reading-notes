@@ -7,3 +7,4 @@
 |   Read: 03 -  Passing Functions as Props |  [Read03](https://bianqt.github.io/reading-notes/301/read03)    |
 |   Read: 04 -  React and Forms |  [Read04](https://bianqt.github.io/reading-notes/301/read04)    |
 |   Read: 05 -  Putting it all together |  [Read05](https://bianqt.github.io/reading-notes/301/read05)    |
+|   Read: 06 -  NODE.JS |  [Read06](https://bianqt.github.io/reading-notes/301/read06)    |
