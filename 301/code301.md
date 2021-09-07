@@ -9,4 +9,5 @@
 |   Read: 05 -  Putting it all together |  [Read05](https://bianqt.github.io/reading-notes/301/read05)    |
 |   Read: 06 -  NODE.JS |  [Read06](https://bianqt.github.io/reading-notes/301/read06)    |
 |   Read: 07 -  REST |  [Read07](https://bianqt.github.io/reading-notes/301/read07)    |
-|   Read: 07 -  APIs |  [Read8](https://bianqt.github.io/reading-notes/301/read08)    |
+|   Read: 08 -  APIs |  [Read8](https://bianqt.github.io/reading-notes/301/read08)    |
+|   Read: 09 -  FUNCTIONAL PROGRAMMING |  [Read9](https://bianqt.github.io/reading-notes/301/read09)    |
