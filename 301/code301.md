@@ -11,3 +11,5 @@
 |   Read: 07 -  REST |  [Read07](https://bianqt.github.io/reading-notes/301/read07)    |
 |   Read: 08 -  APIs |  [Read8](https://bianqt.github.io/reading-notes/301/read08)    |
 |   Read: 09 -  FUNCTIONAL PROGRAMMING |  [Read9](https://bianqt.github.io/reading-notes/301/read09)    |
+|   Read: 10 -  In memory storage |  [Read10](https://bianqt.github.io/reading-notes/301/read10)    |
+|   Read: 11 -  Mongo and Mongoose  |  [Read11](https://bianqt.github.io/reading-notes/301/read11)    |
