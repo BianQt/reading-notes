@@ -2,7 +2,7 @@
 NoSQL (“non SQL” or “not only SQL”) databases were developed in the late 2000s with a focus on scaling, fast queries, allowing for frequent application changes, and making programming simpler for developers. Relational databases accessed with SQL (Structured Query Language) were developed in the 1970s with a focus on reducing data duplication as storage was much more costly than developer time. SQL databases tend to have rigid, complex, tabular schemas and typically require expensive vertical scaling.
 
 
-|  SQL  | noSQL    | noSQL    |
+|    | SQL    | noSQL    |
 | ----------- | ----------- | ----------- |
 |   Data Storage Model |  Tables with fixed rows and columns    |  Document: JSON documents, Key-value: key-value pairs, Wide-column: tables with rows and dynamic columns, Graph: nodes and edges    |
 |   Development History |  Developed in the 1970s with a focus on reducing data duplication    |  Developed in the late 2000s with a focus on scaling and allowing for rapid application change driven by agile and DevOps practices.   |
