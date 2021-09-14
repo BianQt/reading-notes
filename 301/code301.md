@@ -14,3 +14,6 @@
 |   Read: 10 -  In memory storage |  [Read10](https://bianqt.github.io/reading-notes/301/read10)    |
 |   Read: 11 -  Mongo and Mongoose  |  [Read11](https://bianqt.github.io/reading-notes/301/read11)    |
 |   Read: 12 -  CRUD  |  [Read12](https://bianqt.github.io/reading-notes/301/read12)    |
+|   Read: 13 -  Diversity & Inclusion in the Tech Industry  |  [Read13](https://bianqt.github.io/reading-notes/301/read13)    |
+
+
