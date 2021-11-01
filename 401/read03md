@@ -1,79 +1,51 @@
-# Express
+# Express REST API
 
-## Array map() Method
-The map() method in JavaScript creates an array by calling a specific function on each element present in the parent array. It is a non-mutating method. Generally map() method is used to iterate over an array and calling function on every element of array.
-Syntax:
+## Review, Research, and Discussion
 
-```array.map(function(currentValue, index, arr), thisValue)```
-
-**Parameters:** This method accepts two parameters as mentioned above and described below:
+* Name 3 real world use cases where you’d want to change the request with custom middleware
+    - Authentication
+    - Async Actions
+    - Routing 
 ###
-**function(currentValue, index, arr):** It is required parameter and it runs on each element of array. It contains three parameters which are listed below:
-###
-* currentValue: It is required parameter and it holds the value of current element.
-* index: It is optional parameter and it holds the index of current element.
-* arr: It is optional parameter and it holds the array.
-###
-**thisValue:** It is optional parameter and used to hold the value of passed to the function.
-###
-**Return Value:** It returns a new array and elements of arrays are result of callback function.
+* True or false: The route handler is middleware?
+   - False, Middleware functions are functions that take an extra argument, ```next``` along with ```req``` and ```res``` which is used to invoke the next middleware function.
+```app.use()``` and the other HTTP derived methods(```app.get()```, ```app.all()``` etc) can use middleware functions. The difference between handler function and middleware function is same on both app and router object.
+       ###
+     On the other hand, a handler function is a function that is specified by the routing methods. So when any of the routing methods pass a function that has ```req```, ```res```, and ```next``` then it is both a middleware function and a handler function.
 
-## Array reduce() Method
-The arr.reduce() method in JavaScript is used to reduce the array to a single value and executes a provided function for each value of the array (from left-to-right) and the return value of the function is stored in an accumulator.
-###
-**Syntax:**
+* In what ways can a middleware function end the process and send data to the browser?
+   - By not calling ```next()``` and ends the request-response by calling ```res.end```, ```res.send```, etc
 
-```
-array.reduce( function(total, currentValue, currentIndex, arr), 
-initialValue )
-```
+* At what point in the request lifecycle can you “inject” middleware?
+  - In the Calling function/Handler function
+* What can cause express to error with “Request headers sent twice, cannot start a second response”
+  - "Error :Can't set headers after they are sent." means that some function tried to set a header or statusCode after you're already in the Finished state.
 
-**Parameter:** This method accepts five parameters as mentioned above and described below:
+####
+## Vocabulary Terms
+|  Term  | Description   |
+| ----------- | ----------- |
+|   Middleware |  A function that has access to the request object (req), the response object (res), and the next function in the application’s request-response cycle. The next function is a function in the Express router which, when invoked, executes the middleware succeeding the current middleware.    |
+|   Request Object |  The req object represents the HTTP request and has properties for the request query string, parameters, body, HTTP headers, and so on.    |
+|   Response Object |  The response object contains the request response value along with various HTTP headers and flags. When a lifecycle method returns a value, the value is wrapped in a response object along with some default flags (e.g. 200 status code).   |
+|  Application Middleware |  A global Middleware will run on every HTTP request of the application    |
+|  Routing Middleware |  A  Middleware assigned to a specific route   |
+|  Test Driven Development | (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases.    |
+|  Behavioral Testing |  Is a testing of the external behaviour of the program, also known as black box testing. It is usually a functional testing.   |
 
-**function(total, currentValue, index, arr):** It is the required parameter and used to run for each element of array. It contains four parameter which are listed below:
+## Preview
 
-* total: It is required parameter and used to specify the initialValue, or the previously returned value of the function.
-* currentValue: It is required parameter and used to specify the value of the current element.
-* currentIndex: It is optional parameter and used to specify the array index of the current element.
-* arr: It is optional parameter and used to specify the array object the current element belongs to.
+* Which 3 things had you heard about previously and now have better clarity on?
+  - Express
+  - HTTP methods
+  - Request Response Cycle
 
- ###
-**initialValue:** It is optional parameter and used to specify the value to be passed to the function as the initial value.
+* Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+  - Middlewares
+  - Testing
+  - Request/Response methods
 
-
-## Superagent()
-
- ### Promise syntax
- ```
- function  getCharacters(){
-  let characters = {};
-  superagent.get('https://swapi.dev/api/people/').then((data)=>{
-    data.body.results.forEach((char)=> {
-      characters[char.name] = char.url;
-    })
-    console.log(characters)
-  }).catch((err)=>console.log(err));
-}
-```
-
-### async / await syntax
-```
-async function location(name){
-  let data = await superagent.get(`https://geocode.xyz/${name}?json=1`);
-  let long = data.body.longt, lat = data.body.latt;
-  console.log('longitude:',long,', latitude:',lat)
-}
-```
-
-## Promises
-Promises present the eventual completion or failure of an asyncronouns operation and it's resulting value.
-###
-A promise is one of these states:
-* Pending
-* Fulfilled
-* Rejected
-
-## Are all callback functions considered to be Asynchronous? Why or Why Not?
-No, taking a callback doesn't make a function asynchronous. There are many examples of functions that take a function argument but are not asynchronous. For example there's forEach in Array.
-###
-For a function to be asynchronous it needs to perform an asynchronous operation. It needs to incorporate the argument callback in handling the results of this asynchronous operation. Only this way the function becomes asynchronous.
+What are you most excited about trying to implement or see how it works?
+  - Data Structure
+  - Authentication
+  - SQL Databases
