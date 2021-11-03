@@ -1,79 +1,70 @@
-# Express
+# Data Modeling
 
-## Array map() Method
-The map() method in JavaScript creates an array by calling a specific function on each element present in the parent array. It is a non-mutating method. Generally map() method is used to iterate over an array and calling function on every element of array.
-Syntax:
+## Review, Research, and Discussion
 
-```array.map(function(currentValue, index, arr), thisValue)```
+* Name 3 advantages to Test Driven Development
+  - Better program design and higher code quality
+  - Detailed project documentation
+  - TDD reduces the time required for project development
 
-**Parameters:** This method accepts two parameters as mentioned above and described below:
-###
-**function(currentValue, index, arr):** It is required parameter and it runs on each element of array. It contains three parameters which are listed below:
-###
-* currentValue: It is required parameter and it holds the value of current element.
-* index: It is optional parameter and it holds the index of current element.
-* arr: It is optional parameter and it holds the array.
-###
-**thisValue:** It is optional parameter and used to hold the value of passed to the function.
-###
-**Return Value:** It returns a new array and elements of arrays are result of callback function.
+* In what case would you need to use beforeEach() or afterEach() in a test suite?
+  - If we have a global middleware and we want to test the ```next```.
 
-## Array reduce() Method
-The arr.reduce() method in JavaScript is used to reduce the array to a single value and executes a provided function for each value of the array (from left-to-right) and the return value of the function is stored in an accumulator.
-###
-**Syntax:**
+* What is one downside of Test Driven Development
+  - Tests got to be maintained when requirements change.
 
-```
-array.reduce( function(total, currentValue, currentIndex, arr), 
-initialValue )
-```
+* What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
+  - The most important difference between class- and prototype-based inheritance is that a class defines a type which can be instantiated at runtime, whereas a prototype is itself an object instance.
+* Why REST?
+  - REST is Easy to Understand and Implement.
+  - REST Makes your Application More Scalable
+  - Faster Data Interchange Format
 
-**Parameter:** This method accepts five parameters as mentioned above and described below:
+## Vocabulary Terms
 
-**function(total, currentValue, index, arr):** It is the required parameter and used to run for each element of array. It contains four parameter which are listed below:
-
-* total: It is required parameter and used to specify the initialValue, or the previously returned value of the function.
-* currentValue: It is required parameter and used to specify the value of the current element.
-* currentIndex: It is optional parameter and used to specify the array index of the current element.
-* arr: It is optional parameter and used to specify the array object the current element belongs to.
-
- ###
-**initialValue:** It is optional parameter and used to specify the value to be passed to the function as the initial value.
+* **functional programming** : is a programming paradigm in which we try to bind everything in pure mathematical functions style.
 
 
-## Superagent()
+* **object-oriented programming (OOP)** : is a programming paradigm based on the concept of "objects", which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods)
 
- ### Promise syntax
- ```
- function  getCharacters(){
-  let characters = {};
-  superagent.get('https://swapi.dev/api/people/').then((data)=>{
-    data.body.results.forEach((char)=> {
-      characters[char.name] = char.url;
-    })
-    console.log(characters)
-  }).catch((err)=>console.log(err));
-}
-```
 
-### async / await syntax
-```
-async function location(name){
-  let data = await superagent.get(`https://geocode.xyz/${name}?json=1`);
-  let long = data.body.longt, lat = data.body.latt;
-  console.log('longitude:',long,', latitude:',lat)
-}
-```
+* **class** : is a template for creating object.
 
-## Promises
-Promises present the eventual completion or failure of an asyncronouns operation and it's resulting value.
-###
-A promise is one of these states:
-* Pending
-* Fulfilled
-* Rejected
 
-## Are all callback functions considered to be Asynchronous? Why or Why Not?
-No, taking a callback doesn't make a function asynchronous. There are many examples of functions that take a function argument but are not asynchronous. For example there's forEach in Array.
-###
-For a function to be asynchronous it needs to perform an asynchronous operation. It needs to incorporate the argument callback in handling the results of this asynchronous operation. Only this way the function becomes asynchronous.
+* **super** : is a keyword used to call the constructor of its parent class to access the parent's properties and methods.
+
+
+* **this** : The value of this is determined by how a function is called (runtime binding). It can't be set by assignment during execution, and it may be different each time the function is called.
+
+
+* **Test Driven Development (TDD)** : is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases. 
+
+
+* **Jest** : is a delightful JavaScript Testing Framework with a focus on simplicity.
+
+
+* **Continuous Integration (CI)** : is the practice of automating the integration of code changes from multiple contributors into a single software project.
+
+
+* **REST** : is an architectural style that has gained a lot of popularity in recent years due to its simplicity and scalability.
+
+
+* **Data Model** : is an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities. 
+
+
+## Preview
+
+* Which 3 things had you heard about previously and now have better clarity on?
+  - TDD 
+  - Continuous Integration (CI)
+  - ES6 Classes
+
+* Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+  - PostgreSQL
+  - Testing
+  - Data Modeling
+
+* What are you most excited about trying to implement or see how it works?
+  - Data Structures
+  - Authentication
+  - SQL Databases

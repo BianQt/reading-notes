@@ -45,7 +45,7 @@
   - Testing
   - Request/Response methods
 
-What are you most excited about trying to implement or see how it works?
+* What are you most excited about trying to implement or see how it works?
   - Data Structure
   - Authentication
   - SQL Databases
