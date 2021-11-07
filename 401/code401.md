@@ -8,5 +8,5 @@
 |   Read: 03 - Express REST API |  [Read03](https://bianqt.github.io/reading-notes/401/read03)    |
 |   Read: 04 - Data Modeling |  [Read04](https://bianqt.github.io/reading-notes/401/read04)    |
 |   Read: 05 - Linked List |  [Read04](https://bianqt.github.io/reading-notes/401/read05)    |
-
+|   Read: 06 - Authentication |  [Read04](https://bianqt.github.io/reading-notes/401/read06)    |
 
