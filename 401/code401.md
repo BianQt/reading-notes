@@ -7,6 +7,6 @@
 |   Read: 02 - Express |  [Read02](https://bianqt.github.io/reading-notes/401/read02)    |
 |   Read: 03 - Express REST API |  [Read03](https://bianqt.github.io/reading-notes/401/read03)    |
 |   Read: 04 - Data Modeling |  [Read04](https://bianqt.github.io/reading-notes/401/read04)    |
-|   Read: 05 - Linked List |  [Read04](https://bianqt.github.io/reading-notes/401/read05)    |
-|   Read: 06 - Authentication |  [Read04](https://bianqt.github.io/reading-notes/401/read06)    |
+|   Read: 05 - Linked List |  [Read05](https://bianqt.github.io/reading-notes/401/read05)    |
+|   Read: 06 - Authentication |  [Read06](https://bianqt.github.io/reading-notes/401/read06)    |
 
