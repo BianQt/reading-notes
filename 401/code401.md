@@ -9,4 +9,5 @@
 |   Read: 04 - Data Modeling |  [Read04](https://bianqt.github.io/reading-notes/401/read04)    |
 |   Read: 05 - Linked List |  [Read05](https://bianqt.github.io/reading-notes/401/read05)    |
 |   Read: 06 - Authentication |  [Read06](https://bianqt.github.io/reading-notes/401/read06)    |
+|   Read: 07 - Bearer Authorization |  [Read07](https://bianqt.github.io/reading-notes/401/read07)    |
 
