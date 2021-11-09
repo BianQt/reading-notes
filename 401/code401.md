@@ -10,4 +10,5 @@
 |   Read: 05 - Linked List |  [Read05](https://bianqt.github.io/reading-notes/401/read05)    |
 |   Read: 06 - Authentication |  [Read06](https://bianqt.github.io/reading-notes/401/read06)    |
 |   Read: 07 - Bearer Authorization |  [Read07](https://bianqt.github.io/reading-notes/401/read07)    |
+|   Read: 08 - Access Control (ACL) |  [Read08](https://bianqt.github.io/reading-notes/401/read08)    |
 
