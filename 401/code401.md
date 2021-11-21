@@ -18,4 +18,6 @@
 |   Read: 13 - Message Queues |  [Read13](https://bianqt.github.io/reading-notes/401/read13)    |
 |   Read: 14 - Event Driven Architecture |  [Read14](https://bianqt.github.io/reading-notes/401/read14)    |
 |   Read: 15 - Trees |  [Read15](https://bianqt.github.io/reading-notes/401/read15)    |
+|   Read: 16 - Cloud Servers |  [Read16](https://bianqt.github.io/reading-notes/401/read16)    |
+
 
