@@ -20,4 +20,5 @@
 |   Read: 15 - Trees |  [Read15](https://bianqt.github.io/reading-notes/401/read15)    |
 |   Read: 16 - Cloud Servers |  [Read16](https://bianqt.github.io/reading-notes/401/read16)    |
 |   Read: 17 - AWS: S3 and Lambda |  [Read17](https://bianqt.github.io/reading-notes/401/read17)    |
+|   Read: 18 - API, Dynamo and Lambda |  [Read18](https://bianqt.github.io/reading-notes/401/read18)    |
 
