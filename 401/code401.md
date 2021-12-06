@@ -22,3 +22,5 @@
 |   Read: 17 - AWS: S3 and Lambda |  [Read17](https://bianqt.github.io/reading-notes/401/read17)    |
 |   Read: 18 - API, Dynamo and Lambda |  [Read18](https://bianqt.github.io/reading-notes/401/read18)    |
 |   Read: 19 - AWS: Events |  [Read19](https://bianqt.github.io/reading-notes/401/read19)    |
+|   Read: 20 - AWS: Events |  [Read20](https://bianqt.github.io/reading-notes/401/read20)    |
+|   Read: 21 - ```useState()``` Hook |  [Read21](https://bianqt.github.io/reading-notes/401/read21)    |
