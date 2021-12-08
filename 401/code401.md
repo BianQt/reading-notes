@@ -25,3 +25,6 @@
 |   Read: 20 - AWS: Events |  [Read20](https://bianqt.github.io/reading-notes/401/read20)    |
 |   Read: 21 - ```useState()``` Hook |  [Read21](https://bianqt.github.io/reading-notes/401/read21)    |
 |   Read: 22 - ```useEffect()``` Hook |  [Read22](https://bianqt.github.io/reading-notes/401/read22)    |
+|   Read: 23 - Advanced State with Reducers |  [Read23](https://bianqt.github.io/reading-notes/401/read23)    |
+|   Read: 24 - Hash Tables |  [Read24](https://bianqt.github.io/reading-notes/401/read24)    |
+
