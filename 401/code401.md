@@ -30,3 +30,5 @@
 |   Read: 25 - Context API |  [Read25](https://bianqt.github.io/reading-notes/401/read25)    |
 |   Read: 26 - Context API - Behaviors |  [Read26](https://bianqt.github.io/reading-notes/401/read26)    |
 |   Read: 27 - ```<Login />``` and ```<Auth />``` |  [Read27](https://bianqt.github.io/reading-notes/401/read27)    |
+|   Read: 28 - API Integration |  [Read28](https://bianqt.github.io/reading-notes/401/read28)    |
+|   Read: 29 - Graphs |  [Read29](https://bianqt.github.io/reading-notes/401/read29)    |
