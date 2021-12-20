@@ -33,3 +33,4 @@
 |   Read: 28 - API Integration |  [Read28](https://bianqt.github.io/reading-notes/401/read28)    |
 |   Read: 29 - Graphs |  [Read29](https://bianqt.github.io/reading-notes/401/read29)    |
 |   Read: 30 - Application State with Redux |  [Read30](https://bianqt.github.io/reading-notes/401/read30)    |
+|   Read: 31 - Redux - Combined Reducers |  [Read31](https://bianqt.github.io/reading-notes/401/read31)    |
