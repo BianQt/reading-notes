@@ -35,3 +35,4 @@
 |   Read: 30 - Application State with Redux |  [Read30](https://bianqt.github.io/reading-notes/401/read30)    |
 |   Read: 31 - Redux - Combined Reducers |  [Read31](https://bianqt.github.io/reading-notes/401/read31)    |
 |   Read: 32 - Redux - Asynchronous Actions |  [Read32](https://bianqt.github.io/reading-notes/401/read32)    |
+|   Read: 33 - Redux - Additional Topics|  [Read33](https://bianqt.github.io/reading-notes/401/read33)    |
