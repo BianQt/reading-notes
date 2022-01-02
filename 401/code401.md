@@ -37,3 +37,4 @@
 |   Read: 32 - Redux - Asynchronous Actions |  [Read32](https://bianqt.github.io/reading-notes/401/read32)    |
 |   Read: 33 - Redux - Additional Topics|  [Read33](https://bianqt.github.io/reading-notes/401/read33)    |
 |   Read: 34 - React Native|  [Read34](https://bianqt.github.io/reading-notes/401/read34)    |
+|   Read: 40 - Ethics and Professional Conduct|  [Read40](https://bianqt.github.io/reading-notes/401/read40)    |
